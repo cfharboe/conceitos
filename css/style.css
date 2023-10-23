@@ -1,0 +1,58 @@
+body {
+    background-image: url("../img/executivo.jpg");
+}
+
+h1 {
+    color:darkgoldenrod;
+}
+
+h2 {
+    color:darksalmon;
+}
+
+h3 {
+    color:cadetblue;
+}
+
+header {
+    background-image: url("../img/executiva.jpg");
+    background-size: cover;
+    text-align: left;
+    background-position: center;
+    height: 350px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 180px;
+    padding-top: 50px;
+}
+
+main {
+    background-image: url("../img/karolinagrabowska.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: left;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    padding: 50px;   
+    color: darkslategray; 
+}
+
+footer {
+    background-image: url("../img/executive.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: left;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    height: 280px;
+    padding: 50px 70px 20px;
+}    
+
+*{
+    margin: 15px;
+}
+
+.links {
+    list-style-type: none;
+}
+
+
