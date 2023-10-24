@@ -20,7 +20,7 @@ header {
     text-align: left;
     background-position: center;
     height: 350px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:'Verdana';
     padding-left: 180px;
     padding-top: 50px;
 }
@@ -30,7 +30,7 @@ main {
     background-size: cover;
     background-position: center;
     text-align: left;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:'Verdana';
     font-size: 14px;
     padding: 50px;   
     color: darkslategray; 
@@ -41,7 +41,7 @@ footer {
     background-size: cover;
     background-position: center;
     text-align: left;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:'Verdana';
     font-size: 16px;
     height: 280px;
     padding: 50px 70px 20px;
